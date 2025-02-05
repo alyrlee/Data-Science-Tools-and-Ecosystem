@@ -1,8 +1,10 @@
 # Data Science Tools and Ecosystem
-![2-title](https://github.com/user-attachments/assets/e3a9b810-9169-43d9-9f86-3d40d491e41d)
-
 # In this notebook, Data Science Tools and Ecosystem are summarized.
+
+
 ![1-notebook](https://github.com/user-attachments/assets/3c700808-424b-4a03-9a9c-ab3e5c48a044)
+
+![2-title](https://github.com/user-attachments/assets/e3a9b810-9169-43d9-9f86-3d40d491e41d)
 
 ![3-intro](https://github.com/user-attachments/assets/9c2bf523-1434-4561-9e64-1df86d84e442)
 
