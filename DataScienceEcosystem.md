@@ -37,7 +37,9 @@ This table indicates three development environment open source tools used in dat
 |---|---|
 |Apache Spark| A framework for big data that speeds up data processing. It allows data scientists to perform tasks like data wrangling, transformation, and machine learning. |
 |Tensor Flow| A machine learning platform that offers resources for training and building models and recommendation systems. It also allows data scientists to work with artificial intelligence. |
-|Scikit-learn|Supports both supervised and unsupervised machine learning. It includes algorithms and models for model fitting, selection, and evaluation. |
+|Scikit-learn|Supports both supervised and unsupervised machine learning. It includes algorithms and models for model fitting, selection, and evaluation.|
+
+
 ![6-dstools](https://github.com/user-attachments/assets/3c811265-f028-4927-8ae8-64c3ed7f4a5f)
 
 
